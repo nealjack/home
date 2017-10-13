@@ -118,5 +118,5 @@ fi
 
 
 PATH=$PATH:/home/nealjack/bin/
-PATH=$PATH:/home/nealjack/bin/eagle-8.2.1/
+PATH=$PATH:/home/nealjack/bin/eagle-8.3.2/
 alias open='xdg-open'
